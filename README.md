@@ -1,1 +1,1 @@
-# Variations-on-Variational-Autoencoders
+# Variations in Variational Autoencoders - A Comparative Evaluation 
